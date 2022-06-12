@@ -98,3 +98,10 @@
 
 
 print("Im are learn python laguange")
+
+
+#Resource
+#https://python.land/introduction-to-python/strings
+#https://github.com/bellshade/Python
+#https://github.com/surabayapy/sekapur-sirih#belajar-disini
+#https://github.com/adierebel/belajar-python-3
