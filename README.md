@@ -18,7 +18,8 @@ Komputasi ilmiah dan numerik contohnya seperti scipy
 Aplikasi bisnis seperti tryton
 Pembuatan game seperti battlefield 2
 Pengembangan web seperti django atau flask (library)
-Pengembangan dari situs web dan layanan sperti dropbox, buzfeed dan ube
+Pengembangan dari situs web dan layanan sperti dropbox, buzfeed dan uber
+
 #Reference
 https://www.coursereport.com/blog/python-for-cyber-security-with-flatiron-school#:~:text=The%20Python%20libraries%20most%20widely,machine%20learning%20in%20cybersecurity%20operations.
 https://www.hackingloops.com/python-libraries-for-cybersecurity-development/
