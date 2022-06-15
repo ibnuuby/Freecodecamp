@@ -10,3 +10,9 @@
 
 #List and Tuples
 
+edward = ['apel','pisang','anggur', 34]
+john = ['john', 50]
+database = [edward, john]
+database
+
+#Page63
